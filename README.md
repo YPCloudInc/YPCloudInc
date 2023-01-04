@@ -1,6 +1,6 @@
 ### YPCloud Inc.
 
-**Ultranet** Distributed Cloud (PaaS)
+**Ultranet Distributed Cloud - PaaS**
 - Info @ [www.YPCloud.com](https://www.YPCloud.com)
 - contact info@ypcloud.com
 
