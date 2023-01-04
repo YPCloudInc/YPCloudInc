@@ -1,17 +1,24 @@
 ### YPCloud Inc.
 
 **Ultranet Distributed Cloud - PaaS**
+**Micro Cloud - DHQ**
 - Info @ [https://www.ypcloud.com](https://www.YPCloud.com)
 - contact info@ypcloud.com
+- Qbix, MoteBus, xStorage, Redixs, Objstore, IoC, Ultra, Boss, UltraView, UltraPort
 
 **Jujue SaaS**
 - [Jujue.app](https://jujue.app) - Mote Browser
 - [SmartScreen](https://smartscreen.tv)
 - [jBoard](https://jboard.ypcloud.com) / [Shoppu](https://shoppu.tv)
+- FlowBots, Actor, Miki
 
 **Clouder - Digitor & LowCode**
 - @ [https://clouder.ypcloud.com](https://www.YPCloud.com)
 - Ultra Builders [fBuilder / jBuilder / iBuilder / pBuilder](https://run.ypcloud.com) Run
+
+**AnyEdge - Edge Intelligence**
+- Mote Sphere
+- AnyPi, AnyPro, AnyAi
 
 <!--
 **YPCloudInc/YPCloudInc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
