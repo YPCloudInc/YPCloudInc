@@ -1,16 +1,17 @@
 ### YPCloud Inc.
 
-**Ultranet** Distributed Cloud PaaS
+**Ultranet** Distributed Cloud (PaaS)
 - Info @ [www.YPCloud.com](https://www.YPCloud.com)
+- contact info@ypcloud.com
 
 **Jujue SaaS**
-- [Jujue.app](https://jujue.app)
+- [Jujue.app](https://jujue.app) - Mote Browser
 - [SmartScreen](https://smartscreen.tv)
 - [jBoard](https://jboard.ypcloud.com) / [Shoppu](https://shoppu.tv)
 
-**Ultra Builders (Low Code Tools)**
-- Clouder @ [clouder.YPCloud.com](https://www.YPCloud.com)
-- Run [fBuilder / jBuilder / iBuilder / pBuilder](https://run.ypcloud.com)
+**Clouder - Digitor & LowCode**
+- @ [clouder.YPCloud.com](https://www.YPCloud.com)
+- Ultra Builders [fBuilder / jBuilder / iBuilder / pBuilder](https://run.ypcloud.com) Run
 
 <!--
 **YPCloudInc/YPCloudInc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
