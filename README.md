@@ -20,6 +20,9 @@
 - Mote Sphere
 - AnyPi, AnyPro, AnyAi
 
+---
+**Apps** - Linux [SnapStore](https://snapcraft.io/search?q=ypcloud) / Android [Play](https://play.google.com/store/apps/developer?id=YPCloud+Inc.&pli=1) / Builder [WiAdvance](https://appmarket.wiadvance.com/market/list/?search=ypcloud)
+
 <!--
 **YPCloudInc/YPCloudInc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
